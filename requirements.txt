@@ -1,0 +1,4 @@
+requests
+bleach==3.1.0
+websockets==7.0
+python-socketio[asyncio_client]
